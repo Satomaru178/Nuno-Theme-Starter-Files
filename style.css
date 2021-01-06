@@ -143,7 +143,22 @@ h3.heading {
 .fixed-background p {
   margin-top: 1.5rem;
 }
- 
+
+/*--- Clients Section ---*/
+
+.clients img {
+  width: 100%;
+  border-radius: 50%;
+}
+blockquote .svg-inline--fa {
+  color: #1ebba3;
+  margin: 1rem;
+}
+.clients-hr {
+  border-top: .05rem solid #1ebba3;
+}
+
+
 /*============ BOOTSTRAP BREAK POINTS:
 
 Extra small (xs) devices (portrait phones, less than 576px)
